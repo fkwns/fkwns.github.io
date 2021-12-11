@@ -76,11 +76,11 @@ header {
 }
 
 .error_icon {
-    background: url(../images/error.png) no-repeat;
+    background: url(error.png) no-repeat;
 }
 
 .success_icon {
-    background: url(../images/success.png) no-repeat;
+    background: url(success.png) no-repeat;
 }
 
 .safe {
