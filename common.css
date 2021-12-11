@@ -2,8 +2,8 @@
 
 @font-face {
     font-family: 'icomoon';
-    src: url('../fonts/icomoon.eot?af13p3');
-    src: url('../fonts/icomoon.eot?af13p3#iefix') format('embedded-opentype'), url('../fonts/icomoon.ttf?af13p3') format('truetype'), url('../fonts/icomoon.woff?af13p3') format('woff'), url('../fonts/icomoon.svg?af13p3#icomoon') format('svg');
+    src: url('icomoon.eot?af13p3');
+    src: url('icomoon.eot?af13p3#iefix') format('embedded-opentype'), url('icomoon.ttf?af13p3') format('truetype'), url('icomoon.woff?af13p3') format('woff'), url('icomoon.svg?af13p3#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: block;
@@ -75,7 +75,7 @@
     display: block;
     width: 171px;
     height: 61px;
-    background: url(../images/logo.png) no-repeat;
+    background: url(logo.png) no-repeat;
     font-size: 0;
 }
 
@@ -260,23 +260,23 @@
 }
 
 .w .mod_service ul li .one {
-    background: url(../images/icons.png) no-repeat -252px -3px;
+    background: url(icons.png) no-repeat -252px -3px;
 }
 
 .w .mod_service ul li .two {
-    background: url(../images/icons.png) no-repeat -255px -54px;
+    background: url(icons.png) no-repeat -255px -54px;
 }
 
 .w .mod_service ul li .three {
-    background: url(../images/icons.png) no-repeat -256px -105px;
+    background: url(icons.png) no-repeat -256px -105px;
 }
 
 .w .mod_service ul li .four {
-    background: url(../images/icons.png) no-repeat -258px -156px;
+    background: url(icons.png) no-repeat -258px -156px;
 }
 
 .w .mod_service ul li .five {
-    background: url(../images/icons.png) no-repeat -256px -208px;
+    background: url(icons.png) no-repeat -256px -208px;
 }
 
 .service_txt h4 {
