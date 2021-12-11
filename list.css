@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/icomoon.eot?af13p3');
+    src: url('../fonts/icomoon.eot?af13p3#iefix') format('embedded-opentype'), url('../fonts/icomoon.ttf?af13p3') format('truetype'), url('../fonts/icomoon.woff?af13p3') format('woff'), url('../fonts/icomoon.svg?af13p3#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+.nav {
+    overflow: hidden;
+}
+
+.sk {
+    position: absolute;
+    top: 40px;
+    left: 190px;
+    padding: 3px 0 0 14px;
+    border-left: 1px solid #c81523;
+}
+
+.sk_list {
+    float: left;
+}
+
+.sk_list ul li {
+    float: left;
+}
+
+.sk_list ul li a {
+    display: block;
+    padding: 0 30px;
+    line-height: 47px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #000;
+}
+
+.sk_con {
+    float: left;
+}
+
+.sk_con ul li {
+    float: left;
+}
+
+.sk_con ul li a {
+    display: block;
+    padding: 0 20px;
+    line-height: 49px;
+    font-size: 14px;
+}
+
+.sk_con ul li:last-child a::after {
+    content: '\ea52';
+    font-family: 'icomoon';
+    margin-left: 5px;
+    font-size: 14px;
+}
+
+.sk_bd ul li {
+    float: left;
+    width: 290px;
+    height: 460px;
+    margin-right: 13px;
+    border: 1px solid transparent;
+}
+
+.sk_bd ul li:nth-child(4n) {
+    margin-right: 0;
+}
+
+.sk_bd ul li:hover {
+    border: 1px solid #c81523;
+}
